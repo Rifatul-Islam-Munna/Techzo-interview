@@ -12,7 +12,8 @@ web-build/
 # expo router
 expo-env.d.ts
 
-
+/google-services.json
+google-services.json
 
 ios
 android
